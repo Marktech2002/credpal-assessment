@@ -1,0 +1,30 @@
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-00.yoqy4tw.mongodb.net","timestamp":"2024-03-20T10:56:42.966Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-01.yoqy4tw.mongodb.net","timestamp":"2024-03-20T10:57:44.111Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-00.yoqy4tw.mongodb.net","timestamp":"2024-03-20T10:58:48.705Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-01.yoqy4tw.mongodb.net","timestamp":"2024-03-20T10:59:18.944Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-02.yoqy4tw.mongodb.net","timestamp":"2024-03-20T10:59:51.169Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-00.yoqy4tw.mongodb.net","timestamp":"2024-03-20T11:01:13.969Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-01.yoqy4tw.mongodb.net","timestamp":"2024-03-20T11:01:45.709Z"}
+{"level":"info","message":"calling registerUser","timestamp":"2024-03-20T11:04:37.325Z"}
+{"level":"info","message":"calling registerUser","timestamp":"2024-03-20T11:04:49.991Z"}
+{"level":"info","message":"validation passed..","timestamp":"2024-03-20T11:04:49.993Z"}
+{"level":"info","message":"User created..","timestamp":"2024-03-20T11:04:50.387Z"}
+{"level":"info","message":"calling registerUser","timestamp":"2024-03-20T11:05:02.171Z"}
+{"level":"info","message":"validation passed..","timestamp":"2024-03-20T11:05:02.173Z"}
+{"level":"info","message":"calling registerUser","timestamp":"2024-03-20T11:05:14.104Z"}
+{"level":"info","message":"validation passed..","timestamp":"2024-03-20T11:05:14.105Z"}
+{"level":"info","message":"User created..","timestamp":"2024-03-20T11:05:14.553Z"}
+{"level":"info","message":"calling registerUser","timestamp":"2024-03-20T11:05:20.713Z"}
+{"level":"info","message":"validation passed..","timestamp":"2024-03-20T11:05:20.714Z"}
+{"level":"info","message":"User created..","timestamp":"2024-03-20T11:05:21.121Z"}
+{"level":"info","message":"calling registerUser","timestamp":"2024-03-20T11:05:31.059Z"}
+{"level":"info","message":"validation passed..","timestamp":"2024-03-20T11:05:31.061Z"}
+{"level":"info","message":"calling registerUser","timestamp":"2024-03-20T11:05:39.281Z"}
+{"level":"info","message":"validation passed..","timestamp":"2024-03-20T11:05:39.282Z"}
+{"level":"info","message":"User created..","timestamp":"2024-03-20T11:05:39.865Z"}
+{"level":"info","message":"gettng user ","timestamp":"2024-03-20T11:08:55.114Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-00.yoqy4tw.mongodb.net","timestamp":"2024-03-20T11:14:19.559Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-01.yoqy4tw.mongodb.net","timestamp":"2024-03-20T11:14:56.715Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-00.yoqy4tw.mongodb.net","timestamp":"2024-03-20T11:17:22.314Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-00.yoqy4tw.mongodb.net","timestamp":"2024-03-20T11:18:50.800Z"}
+{"level":"info","message":"Database Sighted : ac-1l6oteo-shard-00-00.yoqy4tw.mongodb.net","timestamp":"2024-03-20T11:27:35.056Z"}
